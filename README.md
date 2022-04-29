@@ -2,7 +2,15 @@
 **I see you | I feel you**
 
 The music app that responds to your state of mind.
+- music player with audio visualizer
+- music library/database
+- selection by mood sliders
+- personalized account & playlists
+- discover mode
 
+Desired advanced features:
+- emotion-recognition based on computer vision, voice analysis, and context
+- real time music composition & curation
 
 ---
 
