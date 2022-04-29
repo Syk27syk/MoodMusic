@@ -4,7 +4,7 @@
 The music app that responds to your state of mind.
 - music player with audio visualizer
 - music library/database
-- selection by mood sliders
+- selection by mood sliders & keyword filters & search
 - personalized account & playlists
 - discover mode
 
