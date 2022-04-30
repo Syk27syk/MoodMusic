@@ -23,7 +23,8 @@ Desired advanced features:
 - P5.JS
 - Firebase
 - Adobe Creative Suite
-- ...
+- TensorflowJS
+- WebGL
 
 ---
 
